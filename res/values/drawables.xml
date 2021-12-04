@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="imgly_icon_download">@drawable/imgly_icon_save</item>
+    <item type="drawable" name="imgly_icon_option_selected_brush_color_bg">@drawable/imgly_icon_default_color_bg</item>
+    <item type="drawable" name="imgly_icon_option_selected_brush_color_fill">@drawable/imgly_icon_default_color_fill</item>
+    <item type="drawable" name="imgly_icon_option_sticker_color_bg">@drawable/imgly_icon_default_color_bg</item>
+    <item type="drawable" name="imgly_icon_option_sticker_color_fill">@drawable/imgly_icon_default_color_fill</item>
+    <item type="drawable" name="imgly_icon_option_text_background_color_bg">@drawable/imgly_icon_default_color_bg</item>
+    <item type="drawable" name="imgly_icon_option_text_background_color_fill">@drawable/imgly_icon_default_color_fill</item>
+    <item type="drawable" name="imgly_icon_option_text_color_bg">@drawable/imgly_icon_default_color_bg</item>
+    <item type="drawable" name="imgly_icon_option_text_color_fill">@drawable/imgly_icon_default_color_fill</item>
+    <item type="drawable" name="imgly_icon_save_compat">@drawable/imgly_icon_download</item>
+    <item type="drawable" name="imgly_transparent_identity_color_item">@drawable/imgly_transparent_identity</item>
+    <item type="drawable" name="imgly_transparent_identity_image_bg">@drawable/imgly_transparent_identity</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>
